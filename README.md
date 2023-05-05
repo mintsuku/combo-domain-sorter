@@ -12,7 +12,7 @@ Domain Sorter is a blazing-fast Python tool to sort large quantities of domain a
 #### To get started, clone the repository:
 
 ```bash
-git clone https://github.com/shelovesmox/domain-sorter.git
+git clone https://github.com/shelovesmox/combo-domain-sorter.git
 ```
 
 Next, navigate to the domain-sorter directory:
